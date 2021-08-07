@@ -1,0 +1,4 @@
+#Tue Jul 27 23:37:05 EET 2021
+base.0=E\:\\FCI\\GP\\app\\movy_rek_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
